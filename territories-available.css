@@ -1,0 +1,857 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.territoriesavailablehero-1-icon {
+  width: 1489px;
+  position: relative;
+  height: 907px;
+  object-fit: cover;
+  z-index: 0;
+}
+.heading,
+.paragraph {
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading {
+  align-self: stretch;
+  height: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+}
+.paragraph {
+  width: 100%;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  max-width: 800px;
+}
+.frame-wrapper,
+.heading-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-parent {
+  align-self: stretch;
+  gap: var(--gap-16xl);
+  min-width: 300px;
+}
+.frame-wrapper {
+  flex: 1;
+}
+.territories-available-header-inner {
+  width: calc(100% - 368px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 55px);
+  right: 184px;
+  left: 184px;
+  display: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 1;
+}
+.primary-horizontal-logo-green- {
+  text-decoration: none;
+  width: 150px;
+  position: relative;
+  height: 30.5px;
+  background-image: url(./public/primaryhorizontallogogreenaboutus1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hamburger-menu-territories-1-icon {
+  height: 16.4px;
+  width: 25.4px;
+  position: relative;
+}
+.frame-hamburger-menu-territori {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  width: 45.4px;
+  height: 36.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.territories-main-nav {
+  width: calc(100% - 177px);
+  margin: 0 !important;
+  position: absolute;
+  top: 46px;
+  right: 83px;
+  left: 94px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 2;
+}
+.heading1 {
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  line-height: 35px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 350px;
+}
+.territories-available-header-child {
+  width: calc(100% - 368px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 88px);
+  right: 184px;
+  left: 184px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 3;
+}
+.territories-available-header {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  font-size: var(--font-size-16xl);
+}
+.territories-available-main-nav {
+  width: 45px;
+  margin: 0 !important;
+  position: absolute;
+  top: 38px;
+  left: 43px;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.primary-horizontal-logo-territ {
+  text-decoration: none;
+  width: 171.9px;
+  position: relative;
+  height: 35px;
+  background-image: url(./public/primaryhorizontallogoterritoriesavailable@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.territories-available-main-log {
+  width: 172px;
+  margin: 0 !important;
+  position: absolute;
+  top: 42px;
+  left: calc(50% - 86.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+}
+.heading2 {
+  align-self: stretch;
+  height: 30px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 300px;
+}
+.investing-in-a {
+  margin: 0;
+}
+.paragraph2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  display: inline-block;
+  min-width: 300px;
+}
+.heading-container,
+.territories-available-h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 300px;
+}
+.heading-container {
+  width: 100%;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  max-width: 1121px;
+}
+.territories-available-h1 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-165xl) 1px;
+  box-sizing: border-box;
+  z-index: 3;
+  text-align: left;
+}
+.goldsainte-available-growth-ma-icon {
+  width: 1111px;
+  position: relative;
+  height: 863px;
+  object-fit: cover;
+}
+.frame-available-growth-markets {
+  width: 1120px;
+  height: 860px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.goldsainte-available-growth-ma-icon1 {
+  width: 900px;
+  position: relative;
+  height: 698.5px;
+  object-fit: cover;
+}
+.frame-available-growth-markets1 {
+  width: 898px;
+  height: 713px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.goldsainte-available-growth-ma-icon2 {
+  width: 400px;
+  position: relative;
+  height: 310.4px;
+  object-fit: cover;
+}
+.frame-available-growth-markets2 {
+  width: 400px;
+  height: 322px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.goldsainte-available-growth-ma-icon3 {
+  width: 300px;
+  height: 231px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-available-growth-markets3 {
+  width: 300px;
+  height: 231px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.territories-available-h3,
+.where-we-are-growing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.where-we-are-growing {
+  width: 100%;
+  gap: var(--gap-11xl);
+  max-width: 1121px;
+}
+.territories-available-h3 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-11xl) var(--padding-165xl) 0;
+  z-index: 4;
+  text-align: left;
+}
+.feature-title {
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+.incentives-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 400px;
+}
+.body {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.incentives-text-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-11xl);
+  min-width: 300px;
+}
+.us-map-where-we-are-goinh-icon {
+  width: 297px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 232px;
+  object-fit: cover;
+}
+.us-map-where-we-are-goinh-wrapper {
+  height: 255px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.paragraph3 {
+  width: 153px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-child {
+  width: 20px;
+  position: relative;
+  background-color: var(--color-tan);
+  height: 20px;
+}
+.paragraph-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frame-parent,
+.incentives-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent {
+  height: 321px;
+  flex-direction: column;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.incentives-frame {
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 48px;
+  max-width: 1121px;
+}
+.territories-available-h31 {
+  width: 1489px;
+  background-color: var(--color-darkslategray-100);
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-165xl);
+  box-sizing: border-box;
+  z-index: 5;
+  text-align: left;
+  color: var(--neutral-colors-white);
+}
+.paragraph4 {
+  text-decoration: none;
+  width: 70px;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 70px;
+}
+.franchise-investment-important {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.heading4 {
+  width: 824.5px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 900;
+  display: inline-block;
+}
+.you-are-invited {
+  color: var(--color-gray-100);
+}
+.span {
+  color: var(--color-lightslategray);
+}
+.infogoldsaintecom1 {
+  text-decoration: underline;
+}
+.infogoldsaintecom {
+  color: inherit;
+}
+.paragraph8 {
+  position: relative;
+  font-size: var(--body-default-size);
+  line-height: 30px;
+  font-family: var(--body-default);
+}
+.frame-div {
+  width: 1120px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  font-family: var(--font-covik-sans);
+}
+.heading5,
+.paragraph9 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading5 {
+  height: 20px;
+  line-height: 20px;
+}
+.paragraph9 {
+  font-size: var(--font-size-sm);
+  line-height: 14px;
+}
+.heading-parent1 {
+  width: 1121px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  font-size: var(--font-size-xl);
+}
+.divider-icon {
+  width: 1920px;
+  position: relative;
+  height: 1px;
+  opacity: 0.35;
+}
+.divider-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.social-media-icon-squareinsta,
+.social-media-icon-squarelinke {
+  width: 36px;
+  position: relative;
+  height: 36px;
+  cursor: pointer;
+}
+.social-media-icon-squareinsta {
+  object-fit: cover;
+}
+.social-media-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.social-media-container-wrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  width: 88px;
+  height: 36px;
+}
+.contact-info2 {
+  width: 88px;
+  position: relative;
+  height: 36px;
+}
+.goldsainte-gold-logo-territori-icon {
+  width: 46px;
+  position: relative;
+  height: 46px;
+  object-fit: cover;
+}
+.email {
+  width: 533.9px;
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+}
+.contact-info2-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.frame-group {
+  height: 189px;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-group,
+.franchise-investment-social,
+.territories-available-footer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.franchise-investment-social {
+  height: 189px;
+  justify-content: flex-start;
+  font-size: var(--font-size-25xl);
+  color: var(--color-darkslategray-100);
+}
+.territories-available-footer {
+  height: 236px;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: center;
+  padding: 0 var(--padding-165xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  z-index: 6;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.paragraph10 {
+  width: 100px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 100px;
+  cursor: pointer;
+}
+.territories-available-info-lin1 {
+  width: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.territories-available-info-lin {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-165xl) var(--padding-15xl);
+  z-index: 7;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.territories-available {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
+@media screen and (max-width: 1200px) {
+  .heading {
+    font-size: var(--font-size-16xl);
+    line-height: 35px;
+  }
+  .hamburger-menu-territories-1-icon {
+    display: flex;
+  }
+  .heading1 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .frame-available-growth-markets,
+  .goldsainte-available-growth-ma-icon {
+    display: none;
+    width: 900px;
+  }
+  .goldsainte-available-growth-ma-icon1 {
+    width: 900px;
+  }
+  .frame-available-growth-markets1 {
+    display: flex;
+  }
+  .goldsainte-available-growth-ma-icon2 {
+    width: 900px;
+  }
+  .frame-available-growth-markets2 {
+    display: none;
+  }
+  .goldsainte-available-growth-ma-icon3 {
+    width: 900px;
+  }
+  .frame-available-growth-markets3 {
+    display: none;
+  }
+  .territories-available-h3 {
+    padding-left: var(--padding-165xl);
+    padding-right: var(--padding-165xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .heading {
+    font-size: var(--font-size-6xl);
+    line-height: 25px;
+  }
+  .paragraph {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .heading1 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .heading2 {
+    font-size: var(--font-size-base);
+    line-height: 16px;
+  }
+  .paragraph2 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .territories-available-h1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .goldsainte-available-growth-ma-icon {
+    width: 400px;
+  }
+  .frame-available-growth-markets {
+    display: none;
+    width: 400px;
+  }
+  .goldsainte-available-growth-ma-icon1 {
+    width: 400px;
+  }
+  .frame-available-growth-markets1 {
+    display: none;
+  }
+  .goldsainte-available-growth-ma-icon2 {
+    width: 400px;
+  }
+  .frame-available-growth-markets2 {
+    display: flex;
+    width: 400px;
+  }
+  .goldsainte-available-growth-ma-icon3 {
+    width: 400px;
+  }
+  .frame-available-growth-markets3 {
+    display: none;
+  }
+  .territories-available-h3 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title {
+    font-size: var(--font-size-xl);
+  }
+  .paragraph3,
+  .paragraph4 {
+    font-size: var(--font-size-sm);
+    line-height: 14px;
+  }
+  .paragraph4 {
+    line-height: 20px;
+  }
+  .franchise-investment-important {
+    gap: var(--gap-mini);
+  }
+  .territories-available-footer {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph10 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .territories-available-info-lin {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .heading {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .frame-wrapper {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .heading1 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .heading2 {
+    font-size: var(--font-size-base);
+    line-height: 16px;
+  }
+  .territories-available-h1 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .goldsainte-available-growth-ma-icon {
+    width: 280px;
+  }
+  .frame-available-growth-markets {
+    display: none;
+    width: 280px;
+  }
+  .goldsainte-available-growth-ma-icon1,
+  .goldsainte-available-growth-ma-icon2 {
+    width: 280px;
+  }
+  .frame-available-growth-markets2 {
+    display: none;
+  }
+  .goldsainte-available-growth-ma-icon3 {
+    width: 280px;
+  }
+  .frame-available-growth-markets3 {
+    display: flex;
+  }
+  .territories-available-h3 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .territories-available-info-lin {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+.logomark-seal-green-2-icon {
+  width: 79px;
+  position: relative;
+  height: 79px;
+  object-fit: cover;
+}
+.franchise {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+}
+.sections-child {
+  width: 469px;
+  position: relative;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 1px;
+}
+.menufranchise,
+.sections {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.menufranchise {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+  opacity: 0;
+  height: 100%;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-athiti);
+}
+.menufranchise.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}
+@media screen and (max-width: 960px) {
+  .sections {
+    display: flex;
+  }
+}

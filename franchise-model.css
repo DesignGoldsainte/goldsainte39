@@ -1,0 +1,1145 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.franchisemodelhero-white1-icon {
+  width: 1489px;
+  position: relative;
+  height: 838.3px;
+  object-fit: cover;
+  z-index: 0;
+}
+.franchise-model-hero-child {
+  width: 1489px;
+  position: relative;
+  background-color: var(--color-gray-300);
+  height: 772px;
+  display: none;
+  z-index: 1;
+}
+.franchise-model-hero-item {
+  width: 1038px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 386.15px);
+  right: 0;
+  background: linear-gradient(268.43deg, #fff, rgba(255, 255, 255, 0));
+  height: 772px;
+  display: none;
+  z-index: 2;
+}
+.heading61,
+.paragraph188 {
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading61 {
+  align-self: stretch;
+  height: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+}
+.paragraph188 {
+  width: 100%;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  max-width: 800px;
+}
+.heading-parent38 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-16xl);
+  min-width: 300px;
+}
+.franchise-model-hero-inner {
+  width: calc(100% - 368px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 55.65px);
+  right: 184px;
+  left: 184px;
+  display: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 3;
+}
+.heading62 {
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  line-height: 35px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 300px;
+}
+.frame-wrapper32,
+.heading-parent39 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-parent39 {
+  align-self: stretch;
+  display: flex;
+  gap: var(--gap-16xl);
+  min-width: 350px;
+}
+.frame-wrapper32 {
+  width: 1400px;
+  display: none;
+}
+.franchise-model-hero-inner1 {
+  width: calc(100% - 89px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 54.15px);
+  right: 44px;
+  left: 45px;
+  height: 110px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 4;
+}
+.primary-horizontal-logo-gold-m {
+  text-decoration: none;
+  width: 150px;
+  position: relative;
+  height: 30.5px;
+  background-image: url(./public/primaryhorizontallogogreenaboutus1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hamburger-menu423213-icon {
+  height: 16.4px;
+  width: 25.4px;
+  position: relative;
+}
+.hamburger-menu423213-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  width: 45.4px;
+  height: 36.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.franchise-model-main-logo-nav {
+  width: calc(100% - 177px);
+  margin: 0 !important;
+  position: absolute;
+  top: 46px;
+  right: 83px;
+  left: 94px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 5;
+}
+.frame-heerotext-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-heerotext {
+  width: calc(100% - 89px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 54.15px);
+  right: 45px;
+  left: 44px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 6;
+}
+.franchise-model-hero,
+.franchise-model-main-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.franchise-model-hero {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-direction: column;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+}
+.franchise-model-main-nav {
+  width: 45px;
+  margin: 0 !important;
+  position: absolute;
+  top: 38px;
+  left: 43px;
+  height: 44px;
+  flex-direction: row;
+  z-index: 1;
+}
+.primary-horizontal-logo-franch3 {
+  text-decoration: none;
+  width: 171.9px;
+  position: relative;
+  height: 35px;
+  background-image: url(./public/primaryhorizontallogoterritoriesavailable@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.franchise-model-main-logo {
+  width: 172px;
+  margin: 0 !important;
+  position: absolute;
+  top: 42px;
+  left: calc(50% - 86.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+}
+.goldsainte-ride-share-city-app-icon {
+  width: 384px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 311px;
+  object-fit: cover;
+}
+.heading64 {
+  align-self: stretch;
+  height: 30px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame-franchisee-territory6 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 300px;
+  max-width: 1121px;
+}
+.text17 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.frame-body6 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+  min-width: 300px;
+}
+.frame-title-franchisee-territo4,
+.franchise-model-h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-title-franchisee-territo4 {
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px 56px;
+  max-width: 1121px;
+}
+.franchise-model-h1 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 3;
+}
+.heading65,
+.paragraph191 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.heading65 {
+  height: 30px;
+  line-height: 30px;
+}
+.paragraph191 {
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  min-width: 300px;
+}
+.franchise-model-h11 {
+  width: 1489px;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  box-sizing: border-box;
+  z-index: 4;
+}
+.paragraph192 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.frame-how-a-franchised-ride-sh,
+.franchise-model-h3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 300px;
+}
+.frame-how-a-franchised-ride-sh {
+  width: 100%;
+  gap: var(--gap-11xl);
+  max-width: 1121px;
+}
+.franchise-model-h3 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  padding: var(--padding-xl) var(--padding-165xl);
+  box-sizing: border-box;
+  z-index: 5;
+}
+.franchisees-who-are {
+  margin: 0;
+}
+.body16 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+}
+.frame-text-01 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 300px;
+  max-width: 450px;
+}
+.goldsainte-xl-black-infiniti-q-icon {
+  width: 300px;
+  height: 208.8px;
+  position: relative;
+  border-radius: var(--br-base);
+  object-fit: cover;
+}
+.frame-goldsainte-premium,
+.frame-goldsainte-xl {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 45px;
+}
+.frame-goldsainte-premium {
+  height: 334px;
+  gap: 26px;
+}
+.rideshare {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px 44px;
+}
+.frame-franchisee-territory7,
+.franchise-model-h4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.franchise-model-h4 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  padding: var(--padding-3xs) var(--padding-81xl) var(--padding-21xl);
+  z-index: 6;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.frame-franchisee-territory7 {
+  width: 638px;
+  min-width: 300px;
+  max-width: 1121px;
+}
+.single-territory-franchise {
+  margin: 0;
+  font-weight: 600;
+}
+.world-map-franchising-territor-icon2 {
+  width: 426.7px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 311px;
+  object-fit: cover;
+}
+.franchise-model-h5 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 7;
+}
+.frame-benefits-of-the-model,
+.frame-benefits-of-the-model1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1121px;
+}
+.frame-benefits-of-the-model1 {
+  width: 1121px;
+  flex-direction: column;
+  min-width: 300px;
+}
+.frame-benefits-of-the-model {
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-arsenal);
+}
+.goldsainte-price-down-icon,
+.goldsainte-price-down-icon-lar {
+  width: 130px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 127.3px;
+  object-fit: cover;
+}
+.goldsainte-price-down-icon {
+  height: 112.6px;
+  width: 115px;
+  display: none;
+}
+.paragraph193 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.2em;
+  line-height: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.frame-no-build-text,
+.goldsainte-benefits-1,
+.goldsainte-icon-text-benefits- {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.goldsainte-benefits-1,
+.goldsainte-icon-text-benefits- {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.goldsainte-icon-text-benefits- {
+  gap: 10px 20px;
+}
+.goldsainte-benefits-1 {
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-colors-white);
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  min-width: 300px;
+  min-height: 100px;
+  max-height: 500px;
+}
+.goldsainte-fixed-cost-icon-sma {
+  height: 112.6px;
+  width: 115px;
+  position: relative;
+  border-radius: var(--br-base);
+  object-fit: cover;
+  display: none;
+}
+.frame-franchise-benefits-cards,
+.goldsainte-benefits-2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 300px;
+}
+.goldsainte-benefits-2 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-colors-white);
+  align-items: center;
+  padding: var(--padding-xl);
+  min-height: 150px;
+  max-height: 500px;
+}
+.frame-franchise-benefits-cards {
+  width: 100%;
+  align-items: flex-start;
+  padding: var(--padding-3xs) 0;
+  gap: var(--gap-xl);
+  max-width: 1121px;
+}
+.goldsainte-staffing-icon-smal {
+  height: 112.6px;
+  width: 115px;
+  position: relative;
+  border-radius: var(--br-base);
+  object-fit: cover;
+  display: none;
+}
+.paragraph196,
+.simple-text {
+  position: relative;
+  letter-spacing: 0.2em;
+  line-height: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.simple-text {
+  flex: 1;
+}
+.paragraph196 {
+  align-self: stretch;
+}
+.franchise-model-h6 {
+  align-self: stretch;
+  background: linear-gradient(91.67deg, #fff 5.5%, #bcaa72 85.5%);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  gap: var(--gap-3xs);
+  z-index: 8;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.effective-management-of {
+  margin-bottom: 0;
+}
+.effective-management-of-day-to {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-lgi);
+}
+.paragraph198 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  display: inline-block;
+  min-width: 300px;
+}
+.franchise-model-h9 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 9;
+}
+.feature-title16 {
+  height: 89px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame-training-program,
+.frame-training-program-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-training-program-text {
+  align-self: stretch;
+  height: 40px;
+  flex-direction: row;
+  min-width: 400px;
+}
+.frame-training-program {
+  width: 430px;
+  flex-direction: column;
+  min-width: 350px;
+}
+.graph-training-program-icon {
+  width: 350px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 310.1px;
+  object-fit: cover;
+  max-width: 700px;
+}
+.training-program {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0 30px;
+  max-width: 1121px;
+}
+.franchise-model-h10 {
+  width: 1489px;
+  background: linear-gradient(265.64deg, #bcaa72, #fff);
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  box-sizing: border-box;
+  z-index: 10;
+}
+.paragraph199 {
+  text-decoration: none;
+  width: 70px;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 70px;
+}
+.franchise-model-important-link {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.heading70 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 300px;
+}
+.click5 {
+  color: var(--color-gray-100);
+}
+.span422 {
+  color: var(--color-lightslategray);
+}
+.here12 {
+  text-decoration: underline;
+}
+.here11 {
+  color: inherit;
+}
+.paragraph203 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 14px;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading-parent43 {
+  width: 1121px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.divider-icon15 {
+  width: 1920px;
+  position: relative;
+  height: 1px;
+  opacity: 0.35;
+}
+.divider-wrapper13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.social-media-icon-squareinsta15,
+.social-media-icon-squarelinke16 {
+  width: 36px;
+  position: relative;
+  height: 36px;
+  cursor: pointer;
+}
+.social-media-icon-squareinsta15 {
+  object-fit: cover;
+}
+.social-media-container7 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.social-media-container-wrapper3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  width: 88px;
+  height: 36px;
+}
+.contact-info4 {
+  width: 88px;
+  position: relative;
+  height: 36px;
+}
+.goldsainte-gold-logo-franchise-icon4 {
+  width: 46px;
+  position: relative;
+  height: 46px;
+  object-fit: cover;
+}
+.email15 {
+  width: 533.9px;
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+}
+.contact-info4-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.frame-parent26 {
+  height: 189px;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent26,
+.franchise-model-footer,
+.franchise-model-social {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.franchise-model-social {
+  height: 189px;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.franchise-model-footer {
+  height: 236px;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: center;
+  padding: 0 var(--padding-165xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  z-index: 11;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.paragraph204 {
+  width: 100px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 100px;
+  cursor: pointer;
+}
+.franchise-model-info-links3 {
+  width: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.franchise-model-info-links2,
+.franchise-model1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.franchise-model-info-links2 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  justify-content: center;
+  padding: 0 var(--padding-165xl) var(--padding-15xl);
+  z-index: 12;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.franchise-model1 {
+  width: 100%;
+  position: relative;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
+@media screen and (max-width: 1200px) {
+  .heading61 {
+    font-size: var(--font-size-16xl);
+    line-height: 35px;
+  }
+  .heading62 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .hamburger-menu423213-icon {
+    display: flex;
+  }
+  .heading64 {
+    font-size: var(--font-size-6xl);
+    line-height: 25px;
+  }
+  .franchise-model-h1 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .goldsainte-xl-black-infiniti-q-icon {
+    width: 300px;
+  }
+  .franchise-model-h4,
+  .franchise-model-h5 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .paragraph193 {
+    font-weight: 600;
+    font-family: var(--font-athiti);
+  }
+  .goldsainte-fixed-cost-icon-sma,
+  .goldsainte-staffing-icon-smal {
+    display: none;
+  }
+  .paragraph196,
+  .simple-text {
+    font-weight: 600;
+    font-family: var(--font-athiti);
+  }
+  .franchise-model-h6 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .feature-title16 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .heading61 {
+    font-size: var(--font-size-6xl);
+    line-height: 25px;
+  }
+  .paragraph188 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .heading62,
+  .heading64 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .franchise-model-h1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .heading65 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph191 {
+    font-size: var(--font-size-sm);
+  }
+  .franchise-model-h11 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph192 {
+    font-size: var(--font-size-sm);
+  }
+  .franchise-model-h3 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .body16 {
+    font-size: var(--font-size-sm);
+  }
+  .franchise-model-h4,
+  .franchise-model-h5 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .goldsainte-price-down-icon-lar {
+    display: none;
+  }
+  .goldsainte-price-down-icon {
+    display: flex;
+  }
+  .paragraph193 {
+    font-size: var(--font-size-xs);
+    line-height: 12px;
+  }
+  .goldsainte-fixed-cost-icon-sma {
+    display: flex;
+  }
+  .frame-franchise-benefits-cards {
+    gap: var(--gap-xl);
+  }
+  .goldsainte-staffing-icon-smal {
+    display: flex;
+  }
+  .paragraph196,
+  .simple-text {
+    font-size: var(--font-size-xs);
+    line-height: 12px;
+  }
+  .franchise-model-h6,
+  .franchise-model-h9 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title16 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .franchise-model-h10 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .paragraph199 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .franchise-model-important-link {
+    gap: var(--gap-mini);
+  }
+  .franchise-model-footer {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph204 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .franchise-model-info-links2 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .heading61 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph188 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .heading62 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .frame-wrapper32 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .primary-horizontal-logo-gold-m {
+    width: 150px;
+  }
+  .frame-heerotext-inner {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .heading64 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .franchise-model-h1 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .heading65 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .franchise-model-h11,
+  .franchise-model-h3,
+  .franchise-model-h4,
+  .franchise-model-h5 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .goldsainte-price-down-icon-lar {
+    display: none;
+  }
+  .goldsainte-staffing-icon-smal {
+    display: flex;
+  }
+  .paragraph196,
+  .simple-text {
+    font-size: var(--font-size-xs);
+    line-height: 12px;
+  }
+  .franchise-model-h6,
+  .franchise-model-h9 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .feature-title16 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .franchise-model-info-links2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+.logomark-seal-green-2-icon {
+  width: 79px;
+  position: relative;
+  height: 79px;
+  object-fit: cover;
+}
+.franchise {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+}
+.sections-child {
+  width: 469px;
+  position: relative;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 1px;
+}
+.menufranchise,
+.sections {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.menufranchise {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+  opacity: 0;
+  height: 100%;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-athiti);
+}
+.menufranchise.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}
+@media screen and (max-width: 960px) {
+  .sections {
+    display: flex;
+  }
+}

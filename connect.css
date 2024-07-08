@@ -1,0 +1,1268 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.conect-blackcar-hero-white-icon {
+  width: 1494px;
+  position: relative;
+  height: 840px;
+  object-fit: cover;
+  z-index: 0;
+}
+.connect-hero-child {
+  width: 1038px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 386px);
+  right: 0;
+  background: linear-gradient(268.43deg, #fff, rgba(255, 255, 255, 0));
+  height: 772px;
+  display: none;
+  z-index: 1;
+}
+.heading9,
+.paragraph26 {
+  align-self: stretch;
+  position: relative;
+}
+.heading9 {
+  height: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.paragraph26 {
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.heading-parent4 {
+  gap: var(--gap-xl);
+}
+.frame-wrapper2,
+.frame-wrapper3,
+.heading-parent4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-wrapper2 {
+  z-index: 0;
+}
+.heading10,
+.paragraph27 {
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading10 {
+  align-self: stretch;
+  height: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+}
+.paragraph27 {
+  width: 100%;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  max-width: 800px;
+}
+.heading-parent5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-16xl);
+  min-width: 300px;
+  max-width: 900px;
+}
+.frame-wrapper4 {
+  width: calc(100% + 574px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 44.5px);
+  right: -287px;
+  left: -287px;
+  display: none;
+  z-index: 1;
+}
+.frame-parent2,
+.frame-wrapper4,
+.frame-wrapper6,
+.frame-wrapper7 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-wrapper7 {
+  width: 1121px;
+  display: none;
+}
+.frame-parent2,
+.frame-wrapper6 {
+  margin: 0 !important;
+  position: absolute;
+  z-index: 2;
+}
+.frame-wrapper6 {
+  width: calc(100% + 574px);
+  top: calc(50% - 45px);
+  right: -287px;
+  left: -287px;
+  height: 110px;
+  display: none;
+}
+.frame-parent2 {
+  width: calc(100% - 105px);
+  top: calc(50% - 37.5px);
+  right: 53px;
+  left: 52px;
+  display: flex;
+  gap: 36px;
+}
+.primary-horizontal-logo-green-2 {
+  text-decoration: none;
+  width: 150px;
+  position: relative;
+  height: 30.5px;
+  background-image: url(./public/primaryhorizontallogogreenaboutus1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hamburger-menu3324234-icon {
+  height: 16.4px;
+  width: 25.4px;
+  position: relative;
+}
+.hamburger-menu3324234-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  width: 45.4px;
+  height: 36.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.connect-main-logo-nav {
+  width: calc(100% - 177px);
+  margin: 0 !important;
+  position: absolute;
+  top: 46px;
+  right: 83px;
+  left: 94px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 3;
+}
+.connect-hero {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-arsenal);
+}
+.connect-main-nav {
+  width: 45px;
+  margin: 0 !important;
+  position: absolute;
+  top: 38px;
+  left: 43px;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.primary-horizontal-logo-connec {
+  text-decoration: none;
+  width: 171.9px;
+  position: relative;
+  height: 35px;
+  background-image: url(./public/primaryhorizontallogoconnect@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.connect-main-logo {
+  width: 172px;
+  margin: 0 !important;
+  position: absolute;
+  top: 42px;
+  left: calc(50% - 86.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+}
+.feature-title1 {
+  width: 100%;
+  position: relative;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  height: 19px;
+  flex-shrink: 0;
+  min-width: 300px;
+  max-width: 700px;
+}
+.text1,
+.text2 {
+  align-self: stretch;
+  position: relative;
+}
+.text1 {
+  height: 30px;
+  font-size: var(--font-size-11xl);
+  line-height: 30px;
+  text-transform: uppercase;
+  font-family: var(--font-arsenal);
+  display: inline-block;
+}
+.text2 {
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+}
+.feature-title-parent {
+  flex: 1;
+  height: 252px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+  min-width: 300px;
+}
+.black-rideshare-carshare-icon {
+  width: 420px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 208px;
+  object-fit: cover;
+  min-width: 400px;
+}
+.connect-h1,
+.frame-parent3 {
+  display: flex;
+  align-items: center;
+}
+.frame-parent3 {
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: var(--padding-17xl) 0;
+  box-sizing: border-box;
+  gap: 0 16px;
+  max-width: 1121px;
+}
+.connect-h1 {
+  align-self: stretch;
+  background: linear-gradient(89.45deg, #fff, #bcaa72);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-165xl);
+  z-index: 3;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.black-car-pickup-men-outside-icon {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  height: 450px;
+  object-fit: cover;
+  min-width: 400px;
+}
+.what-is-goldsainte-connect-hea {
+  width: 100%;
+  height: 30px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 400px;
+  max-width: 550px;
+}
+.what-is-goldsainte-connect-bod {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.what-is-goldsainte-connect {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+  min-width: 300px;
+}
+.black-car-pickup-men-outside-parent {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0 48px;
+  max-width: 1121px;
+}
+.connect-h2 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-165xl);
+  z-index: 4;
+  text-align: left;
+  font-family: var(--font-arsenal);
+}
+.headings2 {
+  width: 100%;
+  height: 60px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 300px;
+  max-width: 450px;
+}
+.why-ride-goldsainte-connect-ti {
+  align-self: stretch;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-31xl);
+  box-sizing: border-box;
+  min-width: 300px;
+}
+.a-business-class-experience1 {
+  line-height: 30px;
+}
+.a-business-class-experience {
+  margin: 0;
+  font-size: var(--font-size-mid);
+}
+.blank-line37 {
+  margin: 0;
+  color: var(--color-black);
+}
+.featuring-premium-vehicles {
+  line-height: 20px;
+}
+.featuring-premium-vehicles-wit {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--neutral-colors-white);
+}
+.blank-line39 {
+  margin: 0;
+  color: var(--color-gray-100);
+}
+.paragraph29 {
+  position: absolute;
+  top: 113px;
+  left: calc(50% - 175px);
+  display: inline-block;
+  width: 350px;
+  height: 141px;
+}
+.business-class-experience-icon {
+  position: absolute;
+  top: calc(50% - 127px);
+  left: calc(50% - 52px);
+  width: 105px;
+  height: 112.6px;
+  object-fit: cover;
+}
+.group-business-class-experienc {
+  width: 350px;
+  position: relative;
+  height: 254px;
+  color: var(--color-tan);
+}
+.premium-concierge-support {
+  margin: 0;
+  font-size: var(--font-size-mid);
+  color: var(--color-tan);
+}
+.paragraph30 {
+  position: absolute;
+  top: 113px;
+  left: calc(50% - 175px);
+  display: inline-block;
+  width: 350px;
+  height: 196px;
+}
+.premium-concierge-support-icon {
+  position: absolute;
+  top: calc(50% - 154.5px);
+  left: calc(50% - 53.5px);
+  width: 106px;
+  height: 99.4px;
+  object-fit: cover;
+}
+.group-premium-concierge-suppor {
+  width: 350px;
+  position: relative;
+  height: 309px;
+}
+.paragraph31 {
+  position: absolute;
+  top: 115.1px;
+  left: calc(50% - 175px);
+  display: inline-block;
+  width: 350px;
+  height: 185px;
+}
+.goldsainte-professional-driver-icon {
+  position: absolute;
+  top: calc(50% - 150.05px);
+  left: calc(50% - 40px);
+  width: 79.1px;
+  height: 115px;
+  object-fit: cover;
+}
+.group-goldsainte-professional- {
+  width: 350px;
+  position: relative;
+  height: 300.1px;
+}
+.customizations-designed-around1 {
+  line-height: 32px;
+}
+.paragraph32 {
+  position: absolute;
+  top: 115px;
+  left: calc(50% - 175px);
+  display: inline-block;
+  width: 350px;
+  height: 185px;
+}
+.custom-design-around-you-icon {
+  position: absolute;
+  top: calc(50% - 150px);
+  left: calc(50% - 51.5px);
+  width: 104px;
+  height: 115px;
+  object-fit: cover;
+}
+.group-custom-design-around-you {
+  width: 350px;
+  position: relative;
+  height: 300px;
+  color: var(--color-gray-100);
+}
+.why-ride-goldsainte-connect-te {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 30px 51px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-athiti);
+}
+.connect-h3,
+.why-ride-goldsainte-connect {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.why-ride-goldsainte-connect {
+  width: 100%;
+  align-items: flex-start;
+  max-width: 1121px;
+}
+.connect-h3 {
+  align-self: stretch;
+  background: linear-gradient(123.74deg, #022926, #0c4d47 93.43%);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 5;
+  text-align: left;
+  color: var(--neutral-colors-white);
+  font-family: var(--font-arsenal);
+}
+.how-to-ride {
+  margin: 0;
+}
+.headings3 {
+  width: 100%;
+  height: 1px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 300px;
+  max-width: 650px;
+}
+.how-to-ride-goldsainte-connect {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 54px;
+  box-sizing: border-box;
+  max-width: 1121px;
+}
+.feature-title2,
+.title {
+  width: 137px;
+  height: 30px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+}
+.title {
+  width: 348px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  text-align: left;
+  height: 337px;
+  flex-shrink: 0;
+}
+.request-a-ride {
+  height: 302px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+}
+.man-phone-hand-close-up-icon {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  height: 391px;
+  object-fit: cover;
+  min-width: 400px;
+}
+.how-to-ride-goldsainte-connect1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0 48px;
+  max-width: 1121px;
+  text-align: center;
+  font-family: var(--font-athiti);
+}
+.connect-h4 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  gap: var(--gap-xl);
+  z-index: 6;
+  text-align: left;
+  font-family: var(--font-arsenal);
+}
+.feature-title3,
+.title1 {
+  width: 114px;
+  height: 30px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+}
+.title1 {
+  width: 348px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  text-align: left;
+  height: 60px;
+  flex-shrink: 0;
+}
+.depart-location {
+  height: 127px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+}
+.how-to-ride-goldsainte-connect2 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-29xl);
+  max-width: 1121px;
+}
+.connect-h5 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-165xl);
+  z-index: 7;
+}
+.feature-title4 {
+  width: 74px;
+  height: 28px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.connect-h6,
+.ride-connect {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ride-connect {
+  height: 122px;
+  gap: var(--gap-20xl);
+}
+.connect-h6 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-11xl) var(--padding-165xl);
+  z-index: 8;
+}
+.goldsainte-one-membership-perk-icon {
+  width: 400px;
+  position: relative;
+  border-radius: var(--br-xl);
+  height: 225.1px;
+  object-fit: cover;
+}
+.heading12,
+.text3 {
+  align-self: stretch;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.text3 {
+  height: 16px;
+  letter-spacing: 0.2em;
+  line-height: 16px;
+  font-weight: 600;
+  color: var(--color-tan);
+}
+.heading12 {
+  height: 30px;
+  line-height: 30px;
+}
+.frame-franchisee-territory1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 300px;
+  max-width: 1121px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-arsenal);
+}
+.paragraph33 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+}
+.frame-body1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  min-width: 300px;
+}
+.goldsainte-connect-black-car {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 56px;
+}
+.connect-h7,
+.frame-title-franchisee-territo,
+.goldsainte-connect-black-car {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-title-franchisee-territo {
+  width: 100%;
+  border-radius: var(--br-xl);
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  background-image: url(./public/frame-title-franchisee-territory@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 1121px;
+}
+.connect-h7 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 9;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--neutral-colors-white);
+}
+.paragraph34 {
+  text-decoration: none;
+  width: 70px;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 70px;
+}
+.connect-important-links {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.heading13 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 300px;
+}
+.you-are-invited2 {
+  color: var(--color-gray-100);
+}
+.span3 {
+  color: var(--color-lightslategray);
+}
+.infogoldsaintecom5 {
+  text-decoration: underline;
+}
+.infogoldsaintecom4 {
+  color: inherit;
+}
+.paragraph38 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 14px;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading-parent7 {
+  width: 1121px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.divider-icon2 {
+  width: 1920px;
+  position: relative;
+  height: 1px;
+  opacity: 0.35;
+}
+.divider-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.social-media-icon-squareinsta2,
+.social-media-icon-squarelinke2 {
+  width: 36px;
+  position: relative;
+  height: 36px;
+  cursor: pointer;
+}
+.social-media-icon-squareinsta2 {
+  object-fit: cover;
+}
+.social-media-container33223 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.social-media-container33223-wrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  width: 88px;
+  height: 36px;
+}
+.contact-info10233 {
+  width: 88px;
+  position: relative;
+  height: 36px;
+}
+.goldsainte-gold-logo-connect-icon {
+  width: 46px;
+  position: relative;
+  height: 46px;
+  object-fit: cover;
+}
+.email2 {
+  width: 533.9px;
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+}
+.contact-info10233-parent,
+.frame-parent4 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.contact-info10233-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-2xs) 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.frame-parent4 {
+  height: 169px;
+  gap: var(--gap-3xs);
+}
+.connect-footer,
+.connect-social,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.connect-social {
+  width: 1121px;
+  height: 169px;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.connect-footer {
+  align-self: stretch;
+  height: 236px;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: center;
+  padding: 0 var(--padding-165xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  z-index: 10;
+  font-size: var(--font-size-sm);
+}
+.paragraph39 {
+  width: 100px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 100px;
+  cursor: pointer;
+}
+.connect-info-links1 {
+  width: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.connect,
+.connect-info-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.connect-info-links {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  justify-content: center;
+  padding: 0 var(--padding-165xl) var(--padding-15xl);
+  z-index: 11;
+  font-size: var(--font-size-sm);
+}
+.connect {
+  width: 100%;
+  position: relative;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-athiti);
+}
+@media screen and (max-width: 1200px) {
+  .heading9 {
+    font-size: var(--font-size-16xl);
+    line-height: 35px;
+  }
+  .heading10 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .hamburger-menu3324234-icon {
+    display: flex;
+  }
+  .headings2,
+  .text1,
+  .what-is-goldsainte-connect-hea {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .feature-title4,
+  .heading12,
+  .headings3 {
+    font-size: var(--font-size-11xl);
+  }
+  .feature-title4,
+  .heading12 {
+    line-height: 30px;
+  }
+  .connect-h7 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .heading9 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph26 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .heading10 {
+    font-size: var(--font-size-6xl);
+    line-height: 25px;
+  }
+  .feature-title1,
+  .paragraph27 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .feature-title1 {
+    line-height: 14px;
+  }
+  .text1 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .what-is-goldsainte-connect-hea {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h2 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .headings2 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h3 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title2,
+  .headings3 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h4 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title3 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h5 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title4 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h6 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .goldsainte-one-membership-perk-icon {
+    width: 342px;
+    height: 199px;
+  }
+  .heading12 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h7 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph34 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .connect-important-links {
+    gap: var(--gap-mini);
+  }
+  .connect-footer {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph39 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .connect-info-links {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .heading9 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph26 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .frame-wrapper3 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .heading10 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph27 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .frame-wrapper7 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .text1 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .what-is-goldsainte-connect-hea {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .headings2 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h3 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .headings3 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .connect-h4,
+  .connect-h5 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .feature-title4 {
+    line-height: 20px;
+  }
+  .connect-h6 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .heading12 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph33 {
+    font-family: var(--font-athiti);
+  }
+  .connect-h7,
+  .connect-info-links {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .connect-info-links {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+  }
+}
+.logomark-seal-green-1 {
+  text-decoration: none;
+  width: 79px;
+  position: relative;
+  height: 79px;
+  background-image: url(./public/logomarksealgreen-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.sections-child2 {
+  width: 469px;
+  position: relative;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 1px;
+}
+.car-share {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+}
+.menuhome,
+.sections1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.menuhome {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+  opacity: 0;
+  height: 100%;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-athiti);
+}
+.menuhome.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}
+@media screen and (max-width: 960px) {
+  .sections1 {
+    display: flex;
+  }
+}

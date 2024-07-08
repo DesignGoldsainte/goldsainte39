@@ -1,0 +1,1748 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.whychooseushero-white-icon {
+  width: 1489px;
+  position: relative;
+  height: 878px;
+  object-fit: cover;
+  z-index: 0;
+}
+.heading56,
+.paragraph171 {
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading56 {
+  align-self: stretch;
+  height: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+}
+.paragraph171 {
+  width: 100%;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  max-width: 800px;
+}
+.frame-wrapper26,
+.heading-parent36 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-parent36 {
+  align-self: stretch;
+  gap: var(--gap-16xl);
+  min-width: 300px;
+}
+.frame-wrapper26 {
+  flex: 1;
+}
+.why-choose-us-hero-inner {
+  width: calc(100% - 89px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 74px);
+  right: 45px;
+  left: 44px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 1;
+}
+.whychooseus-horizontal-logo-go {
+  text-decoration: none;
+  width: 150px;
+  position: relative;
+  height: 30.5px;
+  background-image: url(./public/primaryhorizontallogogreenaboutus1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hamburger-menu-new-203423-icon {
+  height: 16.4px;
+  width: 25.4px;
+  position: relative;
+}
+.hamburger-menu-new-203423-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  width: 45.4px;
+  height: 36.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.why-choose-us-main-logo-nav {
+  width: calc(100% - 177px);
+  margin: 0 !important;
+  position: absolute;
+  top: 46px;
+  right: 83px;
+  left: 94px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 2;
+}
+.why-choose-us-hero {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-arsenal);
+}
+.why-choose-us-main-nav {
+  width: 45px;
+  margin: 0 !important;
+  position: absolute;
+  top: 38px;
+  left: 43px;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.primary-horizontal-logo-why-ch {
+  text-decoration: none;
+  width: 171.9px;
+  position: relative;
+  height: 35px;
+  background-image: url(./public/primaryhorizontallogowhychooseus@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.why-choose-us-main-logo {
+  width: 172px;
+  margin: 0 !important;
+  position: absolute;
+  top: 42px;
+  left: calc(50% - 86.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+}
+.heading57,
+.paragraph172 {
+  align-self: stretch;
+  position: relative;
+}
+.heading57 {
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+}
+.paragraph172 {
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.why-choose-us-h1,
+.why-choose-us2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 300px;
+}
+.why-choose-us2 {
+  width: 100%;
+  gap: var(--gap-13xl);
+  max-width: 1121px;
+}
+.why-choose-us-h1 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  box-sizing: border-box;
+  z-index: 3;
+  font-family: var(--font-arsenal);
+}
+.headings12 {
+  align-self: stretch;
+  height: 90px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 450px;
+}
+.headings-wrapper6 {
+  align-self: stretch;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 var(--padding-31xl);
+  box-sizing: border-box;
+}
+.headings13 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 60px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 500px;
+}
+.headings-wrapper7,
+.ownership-benefits-inner {
+  width: 1120px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headings-wrapper7 {
+  flex: 1;
+  display: flex;
+}
+.ownership-benefits-inner {
+  height: 186px;
+  display: none;
+  padding: var(--padding-3xs) var(--padding-154xl) var(--padding-3xs) 0;
+  box-sizing: border-box;
+  min-width: 1100px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-chiffon);
+}
+.lightbulb-icon {
+  width: 100px;
+  position: relative;
+  height: 100px;
+  object-fit: cover;
+}
+.innovation {
+  margin: 0;
+}
+.blank-line310 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.the-first-and {
+  line-height: 20px;
+}
+.the-first-and-only-franchisee- {
+  margin: 0;
+  font-size: var(--font-size-sm);
+}
+.paragraph173 {
+  width: 300px;
+  position: relative;
+  display: inline-block;
+  height: 232px;
+  flex-shrink: 0;
+}
+.lightbulb-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 367.5px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-wrapper27 {
+  width: 367.5px;
+  position: relative;
+  height: 350px;
+}
+.paragraph174,
+.paragraph176 {
+  width: 300px;
+  position: relative;
+  display: inline-block;
+}
+.paragraph176 {
+  height: 177px;
+  flex-shrink: 0;
+}
+.flag-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 367px;
+  height: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-wrapper30 {
+  width: 367px;
+  position: relative;
+  height: 311px;
+}
+.group-container {
+  width: 1121px;
+  display: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px 14px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-athiti);
+}
+.ownership-benefits {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 1121px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-arsenal);
+}
+.goldsainte-innovation-icon-lar,
+.goldsainte-innovation-icon-sma {
+  width: 130px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 127.3px;
+  object-fit: cover;
+}
+.goldsainte-innovation-icon-sma {
+  width: 115px;
+  height: 112.6px;
+  display: none;
+}
+.paragraph177 {
+  width: 300px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  height: 30px;
+  flex-shrink: 0;
+}
+.paragraph178 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+}
+.frame-goldsainte-innovation-te,
+.goldsainte-ownership-benefits-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-goldsainte-innovation-te {
+  align-self: stretch;
+  font-size: var(--font-size-sm);
+}
+.goldsainte-ownership-benefits-1 {
+  flex: 1;
+  gap: var(--gap-xl);
+}
+.goldsainte-ownership-benefits- {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-colors-white);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  min-width: 300px;
+  min-height: 360px;
+  max-height: 500px;
+}
+.goldsainte-ownership-benefits-icon1 {
+  width: 115px;
+  height: 112.6px;
+  position: relative;
+  border-radius: var(--br-base);
+  object-fit: cover;
+  display: none;
+}
+.paragraph179 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+}
+.frame-franchise-ownership-bene,
+.goldsainte-ownership-benefits-2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 300px;
+}
+.goldsainte-ownership-benefits-2 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-colors-white);
+  align-items: center;
+  padding: var(--padding-xl);
+  min-height: 350px;
+  max-height: 500px;
+}
+.frame-franchise-ownership-bene {
+  width: 100%;
+  align-items: flex-start;
+  padding: var(--padding-3xs) 0;
+  gap: var(--gap-xl);
+  max-width: 1121px;
+}
+.goldsainte-ownership-benefits-icon3 {
+  width: 115px;
+  height: 112.6px;
+  position: relative;
+  border-radius: var(--br-base);
+  object-fit: cover;
+  display: none;
+}
+.goldsainte-ownership-our-servi3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+}
+.goldsainte-ownership-our-servi {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-colors-white);
+  height: 360px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  min-width: 300px;
+  min-height: 360px;
+  max-height: 500px;
+}
+.why-choose-us-h2 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-165xl);
+  gap: var(--gap-3xs);
+  z-index: 4;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.training {
+  line-height: 24px;
+}
+.and-support {
+  line-height: 30px;
+}
+.feature-title13 {
+  flex: 1;
+  position: relative;
+  text-transform: uppercase;
+}
+.body3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+}
+.franchise-training-and-support-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-11xl);
+  min-width: 300px;
+}
+.high-five-office-franchise-tra-icon {
+  width: 536.5px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 391px;
+  object-fit: cover;
+  min-width: 350px;
+  max-width: 700px;
+}
+.franchise-training-and-support {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 34px 48px;
+  max-width: 1121px;
+}
+.why-choose-us-h3 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-165xl);
+  z-index: 5;
+  font-size: var(--font-size-5xl);
+}
+.title10 {
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+.header-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 400px;
+}
+.body4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+}
+.why-choose-us-h4 {
+  align-self: stretch;
+  background: linear-gradient(85.26deg, #fff, #bcaa72);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-165xl);
+  z-index: 6;
+  font-size: var(--font-size-5xl);
+}
+.body5 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  display: inline-block;
+  min-width: 300px;
+}
+.frame-incentives {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xl);
+}
+.graph-info-incentives-graphic-icon {
+  width: 1000px;
+  height: 369px;
+  position: relative;
+  border-radius: var(--br-base);
+  object-fit: cover;
+}
+.frame-incentives-graphic-1200 {
+  width: 1002px;
+  height: 372px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.graph-info-incentives-graphic-icon1 {
+  width: 899px;
+  height: 332px;
+  position: relative;
+  border-radius: var(--br-base);
+  object-fit: cover;
+  display: none;
+}
+.frame-incentives-graphic-12001 {
+  width: 898px;
+  height: 327px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.numbers-square-graph-small-web-icon {
+  width: 415px;
+  height: 316px;
+  position: relative;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+  display: none;
+}
+.frame-incentives-graphic-960 {
+  width: 415px;
+  height: 317px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.numbers-square-graph-small-web-icon1 {
+  width: 299px;
+  height: 228px;
+  position: relative;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+  display: none;
+}
+.frame-incentives-graphic-420 {
+  width: 299px;
+  height: 229px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.graph-info-goldsainte-icon {
+  width: 400px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 146.5px;
+  object-fit: cover;
+  display: none;
+  min-width: 400px;
+  max-width: 400px;
+}
+.incentives-frame1,
+.why-choose-us-h5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.incentives-frame1 {
+  width: 100%;
+  gap: var(--gap-11xl);
+  max-width: 1121px;
+}
+.why-choose-us-h5 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-11xl) var(--padding-165xl);
+  z-index: 7;
+  font-size: var(--font-size-5xl);
+}
+.heading58 {
+  align-self: stretch;
+  height: 30px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.total-registered-riders-icon {
+  width: 92px;
+  position: relative;
+  height: 92px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.big-number10,
+.title11 {
+  width: 205px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.big-number10 {
+  width: 121px;
+  font-size: var(--font-size-25xl);
+  line-height: 50px;
+  color: var(--color-darkslategray-100);
+  height: 50px;
+  flex-shrink: 0;
+}
+.total-registered-riders-parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 141px);
+  right: 0;
+  left: 0;
+  box-shadow: 0 4px 14px 7px rgba(0, 0, 0, 0.05);
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-31xl) 87px;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.card {
+  width: 379px;
+  position: relative;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.05);
+  height: 282px;
+}
+.average-spend-per-customer-icon {
+  width: 96px;
+  position: relative;
+  height: 96px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.big-number11,
+.title12 {
+  width: 246px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.big-number11 {
+  width: 168px;
+  font-size: var(--font-size-25xl);
+  line-height: 50px;
+  color: var(--color-darkslategray-100);
+  text-align: left;
+}
+.average-spend-per-customer-parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 131px);
+  right: 0;
+  left: 0;
+  box-shadow: 0 0 14px 7px rgba(0, 0, 0, 0.05);
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-15xl) 66px;
+  box-sizing: border-box;
+  gap: 14px;
+}
+.card1 {
+  width: 379px;
+  position: relative;
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.05);
+  height: 262px;
+}
+.card-parent {
+  width: 378px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.container {
+  position: absolute;
+  width: calc(100% - 0.3px);
+  top: calc(50% - 142px);
+  right: 0.3px;
+  left: 0;
+  box-shadow: 0 0 14px 7px rgba(0, 0, 0, 0.05);
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-colors-white);
+  height: 284px;
+}
+.month-over-month-average-ride-icon {
+  width: 120px;
+  position: relative;
+  height: 44.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.big-number12,
+.title13 {
+  width: 379px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  height: 10px;
+  flex-shrink: 0;
+}
+.big-number12 {
+  width: 88px;
+  font-size: var(--font-size-25xl);
+  line-height: 50px;
+  color: var(--color-darkslategray-100);
+  height: 50px;
+}
+.month-over-month-average-ride-parent {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 51.9px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-lgi);
+}
+.container-parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 142px);
+  right: 0;
+  left: 0;
+  height: 284px;
+}
+.card2 {
+  width: 379px;
+  position: relative;
+  height: 284px;
+}
+.apple-app-store-conversion-rat-icon {
+  width: 77.9px;
+  position: relative;
+  height: 96.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.big-number13,
+.title14 {
+  width: 283px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.big-number13 {
+  width: 158px;
+  flex: 1;
+  font-size: var(--font-size-25xl);
+  line-height: 50px;
+  color: var(--color-darkslategray-100);
+}
+.apple-app-store-conversion-rat-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 14px 7px rgba(0, 0, 0, 0.05);
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-colors-white);
+  width: 379px;
+  height: 264.1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 37px 47px;
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+}
+.card3 {
+  width: 379px;
+  position: relative;
+  box-shadow: 0 0 14px rgba(0, 0, 0, 0.05);
+  height: 264.1px;
+}
+.card-group {
+  width: 379px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 33px;
+}
+.layer-25-icon {
+  width: 120px;
+  position: relative;
+  height: 44.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.layer-1-icon {
+  position: absolute;
+  top: 0;
+  left: 122px;
+  width: 135px;
+  height: 89px;
+  overflow: hidden;
+}
+.big-number14,
+.title15 {
+  position: absolute;
+  top: 108px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 379px;
+}
+.big-number14 {
+  top: 167px;
+  left: 57px;
+  font-size: var(--font-size-25xl);
+  color: var(--color-darkslategray-100);
+  width: 265px;
+}
+.layer-1-parent {
+  width: 379px;
+  position: relative;
+  height: 187px;
+}
+.layer-25-parent {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 52px;
+  left: 0;
+  height: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-lgi);
+}
+.container-group {
+  width: 379px;
+  position: relative;
+  height: 284px;
+  display: none;
+}
+.container2 {
+  position: absolute;
+  width: calc(100% - 0.3px);
+  top: calc(50% - 142px);
+  right: 0.3px;
+  left: 0;
+  box-shadow: 0 0 14px 7px rgba(0, 0, 0, 0.05);
+  border-radius: var(--br-mini);
+  background-color: var(--color-tan);
+  height: 284px;
+}
+.big-number15 {
+  position: absolute;
+  top: 167px;
+  left: 57px;
+  font-size: var(--font-size-25xl);
+  line-height: 20px;
+  display: inline-block;
+  width: 265px;
+}
+.container-container {
+  width: 379px;
+  position: relative;
+  height: 284px;
+  font-size: var(--font-size-base);
+  color: var(--neutral-colors-white);
+  font-family: var(--font-athiti);
+}
+.container3 {
+  position: absolute;
+  width: calc(100% - 0.7px);
+  top: calc(50% - 142px);
+  right: 0.7px;
+  left: 0;
+  box-shadow: 0 0 14px 7px rgba(0, 0, 0, 0.05);
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-colors-white);
+  height: 284px;
+}
+.container-parent1 {
+  width: 788px;
+  position: relative;
+  height: 284px;
+  display: none;
+}
+.card4 {
+  height: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+  font-size: var(--body-default-size);
+  font-family: var(--font-covik-sans);
+}
+.frame-parent21,
+.our-results-by-number-inner {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.frame-parent21 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: var(--gap-18xl);
+}
+.our-results-by-number-inner {
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-athiti);
+}
+.our-results-by-number,
+.our-results-by-number-inner,
+.why-choose-us-h6 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.our-results-by-number {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-18xl);
+  max-width: 1121px;
+}
+.why-choose-us-h6 {
+  background: linear-gradient(144.78deg, #022926, #0c4d47);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-21xl) 190px;
+  z-index: 8;
+  color: var(--color-tan);
+  font-family: var(--font-arsenal);
+}
+.body6 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+}
+.goldsainte-rideshare-j-alphons-icon {
+  width: 150px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 150px;
+  object-fit: cover;
+}
+.frame-j-alphonse-nicholson {
+  width: 210px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.body8 {
+  width: 263px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.body-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 300px;
+  max-width: 300px;
+}
+.goldsainte-rideshare-the-ritz-icon {
+  width: 200px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 200px;
+  object-fit: cover;
+}
+.frame-parent22 {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  text-align: left;
+  color: var(--neutral-colors-white);
+}
+.frame-partners-images10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 60px 36px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.partners4,
+.why-choose-us-h74 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.partners4 {
+  width: 100%;
+  gap: var(--gap-xl);
+  max-width: 1109px;
+}
+.why-choose-us-h74 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-21xl) var(--padding-81xl);
+  z-index: 9;
+  font-family: var(--font-arsenal);
+}
+.feature-title15 {
+  height: 89px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.feature-title-wrapper1 {
+  align-self: stretch;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 400px;
+}
+.title18 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.pickup-qx80-city-rideshare-app-icon {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 700px;
+  overflow: hidden;
+  height: 391px;
+  object-fit: cover;
+  min-width: 400px;
+}
+.why-choose-us-h8 {
+  align-self: stretch;
+  background: linear-gradient(265.64deg, #bcaa72, #fff);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 10;
+  font-family: var(--font-arsenal);
+}
+.paragraph181 {
+  text-decoration: none;
+  width: 70px;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 70px;
+}
+.why-choose-us-important-links {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.heading60 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 300px;
+}
+.click4 {
+  color: var(--color-gray-100);
+}
+.span421 {
+  color: var(--color-lightslategray);
+}
+.here10 {
+  text-decoration: underline;
+}
+.here9 {
+  color: inherit;
+}
+.paragraph185 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 14px;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading-parent37 {
+  width: 1121px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.divider-icon14 {
+  width: 1920px;
+  position: relative;
+  height: 1px;
+  opacity: 0.35;
+}
+.divider-wrapper12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.social-media-icon-squareinsta14,
+.social-media-icon-squarelinke15 {
+  width: 36px;
+  position: relative;
+  height: 36px;
+  cursor: pointer;
+}
+.social-media-icon-squareinsta14 {
+  object-fit: cover;
+}
+.social-media-container6 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.social-media-container-wrapper2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  width: 88px;
+  height: 36px;
+}
+.contact-info31 {
+  width: 88px;
+  position: relative;
+  height: 36px;
+}
+.goldsainte-gold-logo-franchise-icon3 {
+  width: 46px;
+  position: relative;
+  height: 46px;
+  object-fit: cover;
+}
+.email14 {
+  width: 533.9px;
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+}
+.contact-info3-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.frame-parent25 {
+  height: 188px;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent25,
+.why-choose-us-footer,
+.why-choose-us-social {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.why-choose-us-social {
+  height: 189px;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.why-choose-us-footer {
+  height: 236px;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: center;
+  padding: 0 var(--padding-165xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  z-index: 11;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.paragraph186 {
+  width: 100px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 100px;
+  cursor: pointer;
+}
+.franchise-model-info-links1 {
+  width: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.why-choose-us-info-links,
+.why-choose-us1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.why-choose-us-info-links {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  justify-content: center;
+  padding: 0 var(--padding-165xl) var(--padding-15xl);
+  z-index: 12;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.why-choose-us1 {
+  width: 100%;
+  position: relative;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-athiti);
+}
+@media screen and (max-width: 1200px) {
+  .heading56 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .hamburger-menu-new-203423-icon {
+    display: flex;
+  }
+  .heading57,
+  .headings12 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .headings12 {
+    font-family: var(--font-arsenal);
+  }
+  .paragraph178 {
+    font-family: var(--font-athiti);
+  }
+  .goldsainte-ownership-benefits-icon1 {
+    display: none;
+  }
+  .paragraph179 {
+    font-family: var(--font-athiti);
+  }
+  .goldsainte-ownership-benefits-icon3 {
+    display: none;
+  }
+  .goldsainte-ownership-our-servi3 {
+    font-family: var(--font-athiti);
+  }
+  .graph-info-incentives-graphic-icon {
+    display: none;
+    width: 800px;
+    flex: 1;
+  }
+  .frame-incentives-graphic-1200 {
+    display: none;
+  }
+  .graph-info-incentives-graphic-icon1 {
+    display: flex;
+    width: 800px;
+    flex: 1;
+  }
+  .frame-incentives-graphic-12001 {
+    display: flex;
+  }
+  .frame-incentives-graphic-420,
+  .frame-incentives-graphic-960 {
+    display: none;
+  }
+  .graph-info-goldsainte-icon {
+    width: 1069px;
+  }
+  .why-choose-us-h5 {
+    padding-left: var(--padding-165xl);
+    padding-right: var(--padding-165xl);
+    box-sizing: border-box;
+  }
+  .heading58 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .why-choose-us-h6,
+  .why-choose-us-h74 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .why-choose-us-h74 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+  }
+  .feature-title15 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .heading56 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph171 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .heading57 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph172 {
+    font-size: var(--font-size-sm);
+  }
+  .why-choose-us-h1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .headings12 {
+    font-family: var(--font-arsenal);
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .goldsainte-innovation-icon-lar {
+    display: none;
+  }
+  .goldsainte-innovation-icon-sma {
+    display: flex;
+  }
+  .paragraph178 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .goldsainte-ownership-benefits-icon1 {
+    display: flex;
+  }
+  .paragraph179 {
+    font-family: var(--font-athiti);
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .frame-franchise-ownership-bene {
+    gap: var(--gap-xl);
+  }
+  .goldsainte-ownership-benefits-icon3 {
+    display: flex;
+  }
+  .goldsainte-ownership-our-servi3 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .why-choose-us-h2 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title13 {
+    font-size: var(--font-size-xl);
+  }
+  .body3 {
+    font-size: var(--font-size-sm);
+  }
+  .why-choose-us-h3 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .title10 {
+    font-size: var(--font-size-xl);
+  }
+  .why-choose-us-h4 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .body5 {
+    font-size: var(--font-size-sm);
+  }
+  .graph-info-incentives-graphic-icon {
+    width: 400px;
+  }
+  .graph-info-incentives-graphic-icon1 {
+    display: none;
+    width: 400px;
+  }
+  .frame-incentives-graphic-12001 {
+    display: none;
+  }
+  .frame-incentives-graphic-960,
+  .numbers-square-graph-small-web-icon {
+    display: flex;
+  }
+  .frame-incentives-graphic-420 {
+    display: none;
+  }
+  .graph-info-goldsainte-icon {
+    width: 1069px;
+  }
+  .why-choose-us-h5 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .heading58 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .why-choose-us-h6 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .body6,
+  .body8 {
+    font-size: var(--font-size-sm);
+  }
+  .why-choose-us-h74 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title15 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .why-choose-us-h8 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .paragraph181 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .why-choose-us-important-links {
+    gap: var(--gap-mini);
+  }
+  .why-choose-us-footer {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph186 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .why-choose-us-info-links {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .heading56 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph171 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .frame-wrapper26 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .heading57 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .why-choose-us-h1 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .headings12 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .goldsainte-innovation-icon-lar {
+    display: none;
+  }
+  .goldsainte-ownership-benefits-icon1 {
+    display: flex;
+  }
+  .goldsainte-ownership-our-servi3,
+  .paragraph179 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .why-choose-us-h2,
+  .why-choose-us-h3,
+  .why-choose-us-h4 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .graph-info-incentives-graphic-icon,
+  .graph-info-incentives-graphic-icon1 {
+    width: 300px;
+  }
+  .frame-incentives-graphic-960,
+  .numbers-square-graph-small-web-icon {
+    display: none;
+  }
+  .frame-incentives-graphic-420,
+  .numbers-square-graph-small-web-icon1 {
+    display: flex;
+  }
+  .why-choose-us-h5 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .heading58 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .why-choose-us-h74 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .feature-title15 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .why-choose-us-info-links {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+.logomark-seal-green-2-icon {
+  width: 79px;
+  position: relative;
+  height: 79px;
+  object-fit: cover;
+}
+.franchise {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+}
+.sections-child {
+  width: 469px;
+  position: relative;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 1px;
+}
+.menufranchise,
+.sections {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.menufranchise {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+  opacity: 0;
+  height: 100%;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-athiti);
+}
+.menufranchise.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}
+@media screen and (max-width: 960px) {
+  .sections {
+    display: flex;
+  }
+}

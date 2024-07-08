@@ -1,0 +1,784 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.franchise-investment-hero-1-icon {
+  width: 1485px;
+  position: relative;
+  height: 907px;
+  object-fit: cover;
+  z-index: 0;
+}
+.heading26,
+.paragraph90 {
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading26 {
+  align-self: stretch;
+  height: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+}
+.paragraph90 {
+  width: 100%;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  max-width: 800px;
+}
+.frame-wrapper13,
+.heading-parent17 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-parent17 {
+  align-self: stretch;
+  gap: var(--gap-16xl);
+  min-width: 300px;
+}
+.frame-wrapper13 {
+  flex: 1;
+}
+.franchise-investment-available-inner {
+  width: calc(100% - 368px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 55px);
+  right: 184px;
+  left: 184px;
+  display: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 1;
+}
+.heading27 {
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  line-height: 35px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 300px;
+}
+.franchise-investment-available-child {
+  width: calc(100% - 368px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 88px);
+  right: 184px;
+  left: 184px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 2;
+}
+.franchise-investment-horizonta {
+  text-decoration: none;
+  width: 150px;
+  position: relative;
+  height: 30.5px;
+  background-image: url(./public/primaryhorizontallogogreenaboutus1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hamburger-menu-franchise-inves-icon {
+  height: 16.4px;
+  width: 25.4px;
+  position: relative;
+}
+.franchise-investment-nav {
+  width: calc(100% - 177px);
+  margin: 0 !important;
+  position: absolute;
+  top: 46px;
+  right: 83px;
+  left: 94px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 3;
+}
+.franchise-investment-available {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  font-size: var(--font-size-16xl);
+}
+.hamburger-menu12-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  width: 45.4px;
+  height: 36.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.franchise-investment-main-nav {
+  width: 45px;
+  margin: 0 !important;
+  position: absolute;
+  top: 38px;
+  left: 43px;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.primary-horizontal-logo-franch {
+  text-decoration: none;
+  width: 171.9px;
+  position: relative;
+  height: 35px;
+  background-image: url(./public/primaryhorizontallogoconnect@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.franchise-investment-main-logo {
+  width: 172px;
+  margin: 0 !important;
+  position: absolute;
+  top: 42px;
+  left: calc(50% - 86.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+}
+.heading28 {
+  align-self: stretch;
+  height: 30px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 300px;
+}
+.when-considering-the {
+  margin: 0;
+}
+.paragraph92 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  display: inline-block;
+  min-width: 300px;
+}
+.how-much-does-a-goldsainte-fra {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.franchise-development-options,
+.franchise-investment-h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 300px;
+  font-size: var(--font-size-11xl);
+}
+.franchise-investment-h1 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  box-sizing: border-box;
+  z-index: 3;
+  text-align: left;
+}
+.franchise-development-options {
+  width: 100%;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  max-width: 1121px;
+}
+.goldsainte-xl {
+  margin: 0;
+  font-size: var(--font-size-6xl);
+  line-height: 25px;
+  text-transform: uppercase;
+}
+.the-first-option {
+  margin: 0;
+  line-height: 20px;
+}
+.franchisee-leases-or {
+  line-height: 20px;
+}
+.franchisee-leases-or-purchases1 {
+  margin-bottom: 0;
+}
+.franchisee-leases-or-purchases {
+  margin: 0;
+  font-family: inherit;
+  padding-left: var(--padding-lgi);
+}
+.paragraph94 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 250px;
+}
+.goldsainte-xl-card-text {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.goldsainte-car-share-pickup-ch-icon {
+  width: 190px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 154.2px;
+  object-fit: cover;
+}
+.goldsainte-xl-card,
+.goldsainte-xl-card-text-image {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.goldsainte-xl-card-text-image {
+  gap: 45px 20px;
+}
+.goldsainte-xl-card {
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray-100);
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  min-width: 300px;
+  min-height: 320px;
+  max-height: 500px;
+}
+.goldsainte-carshare-pickup-cha-icon {
+  width: 190px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 151.8px;
+  object-fit: cover;
+}
+.goldsainte-premium-card-text {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px 20px;
+}
+.frame-franchise-development-op,
+.goldsainte-premium-card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 300px;
+}
+.goldsainte-premium-card {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray-200);
+  align-items: center;
+  padding: var(--padding-xl);
+  min-height: 320px;
+  max-height: 500px;
+}
+.frame-franchise-development-op {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-3xs) 0;
+  gap: var(--gap-24xl);
+  color: var(--neutral-colors-white);
+}
+.paragraph96 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-athiti);
+}
+.franchise-h2 {
+  align-self: stretch;
+  background: linear-gradient(86.29deg, #fff, #bcaa72);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  gap: var(--gap-3xs);
+  z-index: 4;
+  text-align: left;
+}
+.goldsainte-carshare-pickup-cha-icon1 {
+  width: 414px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 302px;
+  object-fit: cover;
+  min-width: 350px;
+  max-width: 700px;
+}
+.title5 {
+  height: 30px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.next-steps-ride-share {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 400px;
+}
+.body2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.text-text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-11xl);
+  min-width: 350px;
+}
+.frame-next-steps-franchise-inv {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 34px 48px;
+  max-width: 1121px;
+}
+.franchise-investment-h3 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-165xl);
+  z-index: 5;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+}
+.paragraph97 {
+  text-decoration: none;
+  width: 70px;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 70px;
+}
+.franchise-investment-important1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.heading30 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 300px;
+}
+.click1 {
+  color: var(--color-gray-100);
+}
+.span9 {
+  color: var(--color-lightslategray);
+}
+.here4 {
+  text-decoration: underline;
+}
+.here3 {
+  color: inherit;
+}
+.paragraph101 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 30px;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading-parent19 {
+  width: 1121px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.divider-icon7 {
+  width: 1920px;
+  position: relative;
+  height: 1px;
+  opacity: 0.35;
+}
+.divider-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.social-media-icon-squareinsta7,
+.social-media-icon-squarelinke8 {
+  width: 36px;
+  position: relative;
+  height: 36px;
+  cursor: pointer;
+}
+.social-media-icon-squareinsta7 {
+  object-fit: cover;
+}
+.social-media-container2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.social-media-container-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  width: 88px;
+  height: 36px;
+}
+.contact-info21 {
+  width: 88px;
+  position: relative;
+  height: 36px;
+}
+.goldsainte-gold-logo-franchise-icon {
+  width: 46px;
+  position: relative;
+  height: 46px;
+  object-fit: cover;
+}
+.email7 {
+  width: 533.9px;
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+}
+.contact-info2-group {
+  align-self: stretch;
+  height: 151px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.frame-parent10 {
+  height: 256px;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent10,
+.franchise-investment-footer,
+.franchise-investment-social1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.franchise-investment-social1 {
+  height: 182px;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.franchise-investment-footer {
+  height: 236px;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: center;
+  padding: 0 var(--padding-165xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  z-index: 6;
+  font-family: var(--font-athiti);
+}
+.paragraph102 {
+  width: 100px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 100px;
+  cursor: pointer;
+}
+.franchise-investment-info-link1 {
+  width: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.franchise-investment-info-link {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-165xl) var(--padding-15xl);
+  z-index: 7;
+  font-family: var(--font-athiti);
+}
+.franchise-investment {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
+@media screen and (max-width: 1200px) {
+  .heading27 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .hamburger-menu-franchise-inves-icon {
+    display: flex;
+  }
+  .heading28 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .paragraph94 {
+    font-family: var(--font-arsenal);
+  }
+}
+@media screen and (max-width: 960px) {
+  .heading26 {
+    font-size: var(--font-size-6xl);
+    line-height: 25px;
+  }
+  .paragraph90 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .heading27,
+  .heading28,
+  .paragraph92 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph92 {
+    font-size: var(--font-size-sm);
+  }
+  .franchise-investment-h1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph96 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .franchise-h2 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .title5 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .franchise-investment-h3 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph97 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .franchise-investment-important1 {
+    gap: var(--gap-mini);
+  }
+  .franchise-investment-footer {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph102 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .franchise-investment-info-link {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .heading26 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph90 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .frame-wrapper13 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .heading27,
+  .heading28 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .franchise-h2,
+  .franchise-investment-h1 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .franchise-investment-info-link {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+.logomark-seal-green-2-icon {
+  width: 79px;
+  position: relative;
+  height: 79px;
+  object-fit: cover;
+}
+.franchise {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+}
+.sections-child {
+  width: 469px;
+  position: relative;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 1px;
+}
+.menufranchise,
+.sections {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.menufranchise {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+  opacity: 0;
+  height: 100%;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-athiti);
+}
+.menufranchise.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}
+@media screen and (max-width: 960px) {
+  .sections {
+    display: flex;
+  }
+}

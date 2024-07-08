@@ -1,0 +1,932 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.membership-hero-white-hero-icon {
+  width: 1529px;
+  position: relative;
+  height: 860px;
+  object-fit: cover;
+  z-index: 0;
+}
+.heading14,
+.paragraph41 {
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading14 {
+  align-self: stretch;
+  height: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+}
+.paragraph41 {
+  width: 100%;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+  max-width: 800px;
+}
+.heading-parent8 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-16xl);
+  min-width: 300px;
+  max-width: 900px;
+}
+.membership-hero-title-inner {
+  align-self: stretch;
+}
+.membership-hero,
+.membership-hero-title,
+.membership-hero-title-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.membership-hero-title {
+  width: calc(100% - 368px);
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 63px);
+  right: 184px;
+  left: 184px;
+  z-index: 1;
+}
+.membership-hero {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  height: 766px;
+  overflow: hidden;
+  flex-shrink: 0;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  font-size: var(--font-size-16xl);
+}
+.hamburger-menu5-icon {
+  height: 16.4px;
+  width: 25.4px;
+  position: relative;
+}
+.hamburger-menu5-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  width: 45.4px;
+  height: 36.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.membership-main-nav {
+  width: 45px;
+  margin: 0 !important;
+  position: absolute;
+  top: 38px;
+  left: 43px;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.primary-horizontal-logo-member {
+  text-decoration: none;
+  width: 171.9px;
+  position: relative;
+  height: 35px;
+  background-image: url(./public/primaryhorizontallogoconnect@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.membership-main-logo {
+  width: 172px;
+  margin: 0 !important;
+  position: absolute;
+  top: 42px;
+  left: calc(50% - 86.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+}
+.frame-elevate-your-lifestyle-child {
+  width: 1491px;
+  position: relative;
+  background: linear-gradient(
+    263.13deg,
+    rgba(190, 169, 103, 0.4) 34.38%,
+    rgba(255, 255, 255, 0)
+  );
+  height: 526px;
+  display: none;
+}
+.holdingphoneoutside02-1-icon {
+  width: 371px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 329px;
+  object-fit: cover;
+  display: none;
+}
+.goldsainte-membership-card-icon {
+  width: 257px;
+  position: relative;
+  height: 139px;
+  object-fit: cover;
+}
+.title3 {
+  width: 100%;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  min-width: 200px;
+  max-width: 420px;
+}
+.title-wrapper {
+  flex: 1;
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 350px;
+}
+.feature-title5,
+.title4 {
+  position: relative;
+  display: inline-block;
+}
+.feature-title5 {
+  width: 608px;
+  line-height: 46px;
+  text-transform: uppercase;
+}
+.title4 {
+  align-self: stretch;
+  font-size: var(--font-size-5xl);
+  line-height: 30px;
+  font-family: var(--body-default);
+  height: 83px;
+  flex-shrink: 0;
+}
+.feature-title-group {
+  width: 1120px;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 18px;
+  min-width: 300px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-chiffon);
+}
+.frame-elevate-your-lifestyle {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 20px 43px;
+  max-width: 1121px;
+}
+.membership-h1 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 39px var(--padding-165xl);
+  background-image: url(./public/membership-h1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+  text-align: left;
+}
+.membership-benefits {
+  margin: 0;
+}
+.headings4 {
+  align-self: stretch;
+  height: 29px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 450px;
+}
+.frame-membership-benefits-titl {
+  align-self: stretch;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-31xl);
+  box-sizing: border-box;
+}
+.goldsainte-travel-itinerary-icon {
+  width: 100px;
+  position: relative;
+  height: 100px;
+  object-fit: cover;
+}
+.our-dedicated-concierge {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+}
+.blank-line82 {
+  margin: 0;
+  line-height: 30px;
+}
+.paragraph42 {
+  width: 255px;
+  position: relative;
+  display: inline-block;
+  height: 170px;
+  flex-shrink: 0;
+}
+.frame-dedicated-concierge-team {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 238px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-dedicated-concierge-team {
+  width: 255px;
+  position: relative;
+  height: 238px;
+  font-family: var(--font-athiti);
+}
+.goldsainte-activated-car-share-icon {
+  width: 99.3px;
+  position: relative;
+  height: 100px;
+  object-fit: cover;
+}
+.pay-a-one-time {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.paragraph43 {
+  width: 255px;
+  position: relative;
+  display: inline-block;
+  height: 111px;
+  flex-shrink: 0;
+}
+.group-one-time-initiation-fee,
+.paragraph44 {
+  width: 255px;
+  position: relative;
+  height: 238px;
+}
+.paragraph44 {
+  display: inline-block;
+  height: 174px;
+  flex-shrink: 0;
+}
+.goldsainte-travel-car-share-me-icon {
+  width: 100.7px;
+  position: relative;
+  height: 100px;
+  object-fit: cover;
+}
+.frame-ultimate-travel-flexibil {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-ultimate-travel-flexibil,
+.paragraph46 {
+  width: 255px;
+  position: relative;
+  height: 260px;
+}
+.paragraph46 {
+  display: inline-block;
+  height: 142px;
+  flex-shrink: 0;
+}
+.frame-membership-benefits-icon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 21px 34px;
+  margin-top: -23px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-covik-sans);
+}
+.frame-membership-benefits,
+.membership-h2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-membership-benefits {
+  width: 100%;
+  align-items: flex-start;
+  max-width: 1121px;
+}
+.membership-h2 {
+  align-self: stretch;
+  background: linear-gradient(110.65deg, #022926, #0c4d47);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 4;
+  text-align: left;
+  color: var(--neutral-colors-white);
+}
+.women-phone-pickup-icon {
+  width: 415px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 348px;
+  object-fit: cover;
+  min-width: 400px;
+}
+.feature-title6 {
+  width: 100%;
+  height: 42px;
+  position: relative;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 450px;
+  max-width: 700px;
+}
+.text4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-athiti);
+}
+.feature-title-container {
+  flex: 1;
+  height: 346px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  min-width: 300px;
+}
+.rectangle-parent {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 22px 56px;
+  max-width: 1121px;
+}
+.membership-h3 {
+  align-self: stretch;
+  background: linear-gradient(-88.04deg, #fff, #bcaa72);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-165xl);
+  z-index: 5;
+  text-align: left;
+}
+.world-map-franchising-territor-icon {
+  width: 342px;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 199px;
+  object-fit: cover;
+  display: none;
+}
+.heading15,
+.text5 {
+  align-self: stretch;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.text5 {
+  height: 16px;
+  letter-spacing: 0.2em;
+  line-height: 16px;
+  font-weight: 600;
+}
+.heading15 {
+  height: 30px;
+  line-height: 30px;
+}
+.frame-franchisee-territory2 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 300px;
+  max-width: 1121px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-tan);
+  font-family: var(--font-arsenal);
+}
+.paragraph47 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-athiti);
+  color: var(--color-black);
+  text-align: left;
+}
+.paragraph-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--neutral-colors-white);
+  width: 90px;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-body2 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-mini) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  min-width: 300px;
+}
+.frame-body2,
+.frame-title-franchisee-territo1,
+.membership-h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-title-franchisee-territo1 {
+  width: 100%;
+  border-radius: var(--br-xl);
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-21xl) var(--padding-xl);
+  box-sizing: border-box;
+  gap: 10px 56px;
+  background-image: url(./public/frame-title-franchisee-territory2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 1121px;
+}
+.membership-h4 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-165xl);
+  z-index: 6;
+  font-size: var(--font-size-base);
+  color: var(--neutral-colors-white);
+  font-family: var(--font-athiti);
+}
+.paragraph48 {
+  text-decoration: none;
+  width: 70px;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 70px;
+}
+.membership-important-links {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.heading16 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 300px;
+}
+.you-are-invited3 {
+  color: var(--color-gray-100);
+}
+.span4 {
+  color: var(--color-lightslategray);
+}
+.infogoldsaintecom7 {
+  text-decoration: underline;
+}
+.infogoldsaintecom6 {
+  color: inherit;
+}
+.paragraph52 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 14px;
+  display: inline-block;
+  min-width: 300px;
+}
+.heading-parent9 {
+  width: 1121px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.divider-icon3 {
+  width: 1920px;
+  position: relative;
+  height: 1px;
+  opacity: 0.35;
+}
+.divider-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.social-media-icon-squarelinke3 {
+  display: none;
+}
+.social-media-icon-squareinsta3,
+.social-media-icon-squarelinke3,
+.social-media-icon-squarelinke4 {
+  width: 36px;
+  position: relative;
+  height: 36px;
+  cursor: pointer;
+}
+.social-media-icon-squareinsta3 {
+  object-fit: cover;
+}
+.social-media-container3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.social-media-container3-wrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 44px);
+  width: 88px;
+  height: 36px;
+}
+.contact-info8 {
+  width: 88px;
+  position: relative;
+  height: 36px;
+}
+.goldsainte-gold-logo-membershi-icon {
+  width: 46px;
+  position: relative;
+  height: 46px;
+  object-fit: cover;
+}
+.email3 {
+  width: 533.9px;
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+}
+.contact-info8-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.frame-parent5 {
+  height: 189px;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent5,
+.membership-footer,
+.membership-social {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.membership-social {
+  height: 189px;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.membership-footer {
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  justify-content: center;
+  padding: 0 var(--padding-165xl);
+  gap: var(--gap-3xs);
+  z-index: 7;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.paragraph53 {
+  width: 100px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 100px;
+  cursor: pointer;
+}
+.membership-info-links1 {
+  width: 996px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  min-width: 300px;
+  max-width: 1121px;
+}
+.membership,
+.membership-info-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.membership-info-links {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  justify-content: center;
+  padding: 0 var(--padding-165xl) var(--padding-15xl);
+  z-index: 8;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-athiti);
+}
+.membership {
+  width: 100%;
+  position: relative;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
+@media screen and (max-width: 1200px) {
+  .heading14 {
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+  }
+  .hamburger-menu5-icon {
+    display: flex;
+  }
+  .title3 {
+    line-height: 30px;
+  }
+  .heading15,
+  .headings4,
+  .title3 {
+    font-size: var(--font-size-11xl);
+  }
+  .heading15 {
+    line-height: 30px;
+  }
+  .membership-h4 {
+    padding-left: var(--padding-51xl);
+    padding-right: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .heading14 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph41 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .title3 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .membership-h1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .headings4 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .membership-h2 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .feature-title6,
+  .heading15 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .membership-h4 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph48 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .membership-important-links {
+    gap: var(--gap-mini);
+  }
+  .membership-footer {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .paragraph53 {
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+  }
+  .membership-info-links {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .heading14 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph41 {
+    font-size: var(--font-size-sm);
+    line-height: 16px;
+  }
+  .membership-hero-title-inner {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .title3 {
+    font-size: var(--font-size-mid);
+    line-height: 17px;
+  }
+  .membership-h1 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .paragraph43,
+  .paragraph44,
+  .paragraph46 {
+    font-family: var(--font-athiti);
+  }
+  .membership-h2 {
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .heading15 {
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+  }
+  .paragraph47 {
+    font-family: var(--font-athiti);
+  }
+  .membership-h4 {
+    padding-left: var(--padding-3xs);
+    padding-right: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .membership-info-links {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+.logomark-seal-green-1 {
+  text-decoration: none;
+  width: 79px;
+  position: relative;
+  height: 79px;
+  background-image: url(./public/logomarksealgreen-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.sections-child2 {
+  width: 469px;
+  position: relative;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 1px;
+}
+.car-share {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+}
+.menuhome,
+.sections1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.menuhome {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-mini) 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+  opacity: 0;
+  height: 100%;
+  max-width: 90%;
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-athiti);
+}
+.menuhome.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}
+@media screen and (max-width: 960px) {
+  .sections1 {
+    display: flex;
+  }
+}
